@@ -23,9 +23,9 @@ I value clarity, correctness, and long-term maintainability over quick hacks.
 
 I organize related work and long-running projects under dedicated GitHub organizations.
 
-- **ml-projects**  
-  Learning-oriented projects, experiments, and implementations across data, AI, and system-backed workflows.  
-  👉 https://github.com/ml-projects
+- **My-Old-Projects**  
+  Learning-oriented projects, experiments, and implementations across shell, java, python, javascript etc.  
+  👉 [My Old Projects](https://github.com/orgs/heresMyOldProjects/repositories)
 
 <!-- Add more organizations here as needed -->
 
