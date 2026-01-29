@@ -1,80 +1,102 @@
-# Birajit 👋
+<div align="center">
 
-## Software Engineer | Backend Systems | Learning AI & Data
+# Birajit Nath
 
-I am a software engineer focused on building **reliable backend systems**, **scalable platforms**, and **well-structured software**. I actively explore data-driven and AI-related technologies, with an emphasis on understanding fundamentals and applying them pragmatically.
+**Senior Software Engineer · Backend & Systems · Learning AI & Data**
 
----
+Building reliable software today while deliberately investing in fundamentals for tomorrow.
 
-## Core Focus Areas
-
-- **Backend & Systems Engineering**
-  - API design and implementation
-  - Asynchronous processing and real-time features
-  - Database modeling and performance considerations
-
-- **Software Engineering**
-  - Clean architecture and maintainable codebases
-  - Debugging, optimization, and system design
-  - Version control and collaboration workflows
-
-- **Exploring Data & AI**
-  - Learning statistics, machine learning fundamentals, and AI concepts
-  - Experimenting with models, data pipelines, and tooling
-  - Translating theory into small, working prototypes
+</div>
 
 ---
 
-## Tech Stack
+## 🧭 About Me
 
-**Languages**
-- Python, JavaScript
+I am a Senior software engineer focused on **backend systems**, **clean architecture**, and **scalable application design**.  
+Alongside production-oriented development, I am actively learning data, statistics, and AI concepts through hands-on experimentation and structured projects.
 
-**Frameworks & Tools**
-- Django, FastAPI, React
+I value clarity, correctness, and long-term maintainability over quick hacks.
+
+---
+
+## 🏢 Organizations
+
+I organize related work and long-running projects under dedicated GitHub organizations.
+
+- **ml-projects**  
+  Learning-oriented projects, experiments, and implementations across data, AI, and system-backed workflows.  
+  👉 https://github.com/ml-projects
+
+<!-- Add more organizations here as needed -->
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- JavaScript
+
+### Frameworks & Tools
+- Django, FastAPI
+- React
 - Git, Docker, Linux
+- Redis
 
-**Databases**
-- PostgreSQL, MySQL, MongoDB
-
-**Practices**
-- RESTful API design
-- CI/CD basics
-- Container-based development
+### Databases
+- PostgreSQL
+- MongoDB
 
 ---
 
-## Projects
+## 📂 What You’ll Find Here
 
-- Backend-driven applications and APIs
-- System-level experiments and proof-of-concepts
-- Learning-oriented repositories documenting growth and exploration
+- **Backend-first projects** with real-world structure
+- **System design experiments** and architectural explorations
+- **Learning repositories** documenting progress in data and AI fundamentals
+- Older projects preserved for reference and iteration
 
-➡️ Repositories reflect both **production-style work** and **learning projects**.
-
----
-
-## Engineering Mindset
-
-- Prefer **clarity over complexity**
-- Build systems that are **easy to reason about**
-- Learn deeply before scaling broadly
-- Treat experimentation as part of engineering growth
+> Repositories reflect both **engineering depth** and **learning trajectory**.
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
-- Strengthening backend and system design skills
-- Deepening understanding of data, AI, and applied statistics
-- Building small, end-to-end projects to validate learning
+- Designing robust APIs and backend workflows
+- Improving system design and scalability thinking
+- Building small, end-to-end projects to internalize data & AI concepts
+- Strengthening fundamentals (statistics, algorithms, architecture)
 
 ---
 
-## Contact
+## 🧠 Engineering Principles
+
+- Clarity beats cleverness
+- Simple systems scale better
+- Learn deeply, then generalize
+- Treat experimentation as a first-class engineering activity
+
+---
+
+## 📈 Growth Mindset
+
+This profile is intentionally structured to show:
+- Where I am **strong**
+- Where I am **learning**
+- How I approach long-term skill development
+
+I optimize for **compounding knowledge**, not short-term optics.
+
+---
+
+## 🔗 Connect
 
 - GitHub: https://github.com/birajit95
 
 ---
 
-*Building solid foundations while continuously learning.*
+<div align="center">
+
+_Progress over polish. Foundations over hype._
+
+</div>
