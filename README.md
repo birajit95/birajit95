@@ -42,6 +42,9 @@ I organize related work and long-running projects under dedicated GitHub organiz
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="36" />
 </p>
 
 ### 🗄️ Databases & Caching
@@ -53,9 +56,14 @@ I organize related work and long-running projects under dedicated GitHub organiz
 
 ### 🧰 DevOps & Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" title='Docker'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" />
+  <a href="https://www.metabase.com/" title="Metabase">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/metabase.svg"
+         height="36"
+         style="color:white" />
+  </a>
 </p>
 
 ---
