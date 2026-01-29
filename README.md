@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # Birajit Nath
 
@@ -101,9 +101,11 @@ I optimize for **compounding knowledge**, not short-term optics.
 
 ---
 
-## 🔗 Connect
+## 🔗 Connect and Profiles
 
-- GitHub: https://github.com/birajit95
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/birajit95/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/birajit95)
 
 ---
 
@@ -111,4 +113,4 @@ I optimize for **compounding knowledge**, not short-term optics.
 
 _Progress over polish. Foundations over hype._
 
-</div>
+</div> -->
