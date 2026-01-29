@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Birajit, a Senior Software Engineer
 
 <!--
 **birajit95/birajit95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
