@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<div align="center">
 
 # Birajit Nath
 
@@ -113,4 +113,4 @@ I optimize for **compounding knowledge**, not short-term optics.
 
 _Progress over polish. Foundations over hype._
 
-</div> -->
+</div>
