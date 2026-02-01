@@ -33,6 +33,12 @@ I organize related work and long-running projects under dedicated GitHub organiz
 
 ## 🛠️ Tech Stack
 
+
+### 🧠 Technologies & Domains
+ - ### 🧩 **Software Engineering** — Backend Systems, APIs, Distributed Architectures
+ - ### 🤖 **Machine Learning** — Data Pipelines, Modeling, Inference
+
+
 ### 🧩 Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" />
@@ -86,10 +92,10 @@ I organize related work and long-running projects under dedicated GitHub organiz
 ---
 
 ## 🎯 Current Focus
-
+- Building industry oriented ML portfolio
 - Designing robust APIs and backend workflows
 - Improving system design and scalability thinking
-- Building small, end-to-end projects to internalize data & AI concepts
+- Building end-to-end projects to internalize data & AI concepts
 - Strengthening fundamentals (statistics, algorithms, architecture)
 
 ---
